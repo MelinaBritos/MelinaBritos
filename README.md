@@ -1,5 +1,4 @@
-<h1 align="center">✨ Hola, soy Melina Britos 👩‍💻</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨ Hola, soy Melina Britos 👩‍💻&color=FF00FF)](https://git.io/typing-svg)
 
 ### 💼 Sobre mí
 
