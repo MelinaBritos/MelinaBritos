@@ -39,6 +39,7 @@ Valoro el **trabajo en equipo** y el **intercambio de conocimientos**, y quiero 
    <a href="mailto:melinal.britos@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/melina-britos-973142281/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
