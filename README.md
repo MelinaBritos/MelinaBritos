@@ -1,8 +1,6 @@
 <h1 align="center">✨ Hola, soy Melina Britos 👩‍💻</h1>
 
 
----
-
 ### 💼 Sobre mí
 
 Soy **Melina Britos**, estudiante de Sistemas y programadora backend trainee.
@@ -40,7 +38,7 @@ Valoro el **trabajo en equipo** y el **intercambio de conocimientos**, y quiero 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melina-britos-973142281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
