@@ -21,7 +21,6 @@ Valoro el **trabajo en equipo** y el **intercambio de conocimientos**, y quiero 
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub" title="GitHub" />
 </p>
 
 ---
@@ -38,7 +37,7 @@ Valoro el **trabajo en equipo** y el **intercambio de conocimientos**, y quiero 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melina-britos-973142281/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
 </p>
 
