@@ -1,8 +1,5 @@
 <h1 align="center">✨ Hola, soy Melina Britos 👩‍💻</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
 
 ---
 
@@ -39,21 +36,14 @@ Valoro el **trabajo en equipo** y el **intercambio de conocimientos**, y quiero 
 
 ---
 
-### 📫 Contacto
+### 📫 Redes
 
 <p align="center">
-  <a href="mailto:melinal.britos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/melina-britos/" target="_blank">
+  <a href="https://www.linkedin.com/in/melina-britos-973142281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
-</p>
 
