@@ -36,14 +36,15 @@ Valoro el **trabajo en equipo** y el **intercambio de conocimientos**, y quiero 
 ### 📫 Contacto
 
 <p align="center">
-   <a href="mailto:melinal.britos@gmail.com" aria-label="Email">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="" />
-</a>
+  <a href="mailto:melinal.britos@gmail.com" aria-label="Email" style="text-decoration:none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="" />
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/melina-britos-973142281/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/melina-britos-973142281/" target="_blank" aria-label="LinkedIn" style="text-decoration:none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="" />
   </a>
 </p>
+
 
 ---
 
