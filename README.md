@@ -26,7 +26,7 @@ Valoro el **trabajo en equipo** y el **intercambio de conocimientos**, y quiero 
 
 ### 🌱 Actualmente aprendiendo...
 
-- Desarrollo backend 
+- Desarrollo backend con java 
 - Principios SOLID y buenas prácticas
 - SQL avanzado
 
