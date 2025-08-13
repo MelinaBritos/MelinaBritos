@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Hola!,+soy+Melina+Britos+👩‍💻&color=FF00FF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Hola!,+Bienvenido+a+mi+repo+👩‍💻&color=FF00FF)](https://git.io/typing-svg)
 
 ### 💼 Sobre mí
 
