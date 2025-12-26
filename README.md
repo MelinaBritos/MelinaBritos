@@ -23,9 +23,11 @@ Soy Melina Britos, Técnica Universitaria en Informática y estudiante de Licenc
 
 ### 🌱 Actualmente aprendiendo...
 
-- Desarrollo backend con java 
-- Principios SOLID y buenas prácticas
-- SQL avanzado
+-Nuevas arquitecturas y patrones de diseño
+
+-Buenas prácticas de desarrollo
+
+-Microservicios
 
 ---
 
