@@ -2,12 +2,7 @@
 
 ### 💼 Sobre mí
 
-Soy Melina Britos, Técnica Universitaria en Informática y estudiante de Licenciatura en Sistemas, apasionada por la tecnología y en constante búsqueda de nuevos aprendizajes.
-
-Busco un entorno donde pueda crecer profesional y personalmente. 
-Valoro el trabajo en equipo y el intercambio de conocimientos, y quiero aportar mi esfuerzo y compromiso a un equipo que me ayude a desarrollarme.
-
-🎯 **Mi meta:** acceder a oportunidades que me permitan aplicar lo aprendido y seguir evolucionando en el sector IT.
+Soy Melina Britos, Técnica Universitaria en Informática y estudiante de Licenciatura en Sistemas.
 
 💻 En este repositorio encontrarás mis proyectos, desarrollados con dedicación y como parte de mi formación y experiencia práctica en programación y tecnología.
 
